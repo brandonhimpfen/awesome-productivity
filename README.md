@@ -117,6 +117,7 @@ AI-powered tools that support productivity and workflow optimization.
 - [Microsoft Copilot](https://copilot.microsoft.com/) — AI assistant integrated into Microsoft products.
 - [Perplexity](https://www.perplexity.ai/) — AI-powered research and information discovery platform.
 - [NotebookLM](https://notebooklm.google/) — AI-powered notebook and research assistant.
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Learning Resources
 
