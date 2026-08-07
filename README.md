@@ -95,6 +95,7 @@ Tools for automating repetitive work and business processes.
 - [Power Automate](https://powerautomate.microsoft.com/) — Microsoft workflow automation service.
 - [Zapier](https://zapier.com/) — No-code automation platform.
 - [Pipedream](https://pipedream.com/) — Event-driven workflow automation.
+- [Autoposting](https://autoposting.ai) — AI social media automation: writes, clips, and schedules posts across networks.
 
 ## Document & File Management
 
