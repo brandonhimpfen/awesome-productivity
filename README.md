@@ -111,12 +111,13 @@ Tools for managing files, documents, and digital assets.
 
 AI-powered tools that support productivity and workflow optimization.
 
+- [Atomic Productivity](https://atomicproductivity.com/) — Free browser-based AI tools for task breakdown, brain dumping, Pomodoro timing, sound mixing, and ADHD self-assessment — no signup required.
 - [ChatGPT](https://chatgpt.com/) — AI assistant for writing, research, and productivity.
 - [Claude](https://claude.ai/) — AI assistant for knowledge work and analysis.
 - [Gemini](https://gemini.google.com/) — Google's AI assistant platform.
 - [Microsoft Copilot](https://copilot.microsoft.com/) — AI assistant integrated into Microsoft products.
-- [Perplexity](https://www.perplexity.ai/) — AI-powered research and information discovery platform.
 - [NotebookLM](https://notebooklm.google/) — AI-powered notebook and research assistant.
+- [Perplexity](https://www.perplexity.ai/) — AI-powered research and information discovery platform.
 
 ## Learning Resources
 
