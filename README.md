@@ -117,6 +117,7 @@ AI-powered tools that support productivity and workflow optimization.
 - [Microsoft Copilot](https://copilot.microsoft.com/) — AI assistant integrated into Microsoft products.
 - [Perplexity](https://www.perplexity.ai/) — AI-powered research and information discovery platform.
 - [NotebookLM](https://notebooklm.google/) — AI-powered notebook and research assistant.
+- [ResumeAI](https://withresumeai.com/) — Free ATS checker and AI resume builder with live candidate leaderboard.
 
 ## Learning Resources
 
