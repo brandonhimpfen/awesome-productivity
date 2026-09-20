@@ -100,6 +100,7 @@ Tools for automating repetitive work and business processes.
 
 Tools for managing files, documents, and digital assets.
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser NDA outline, invoice, SOW, and freelancer document templates (MIT).
 - [Dropbox](https://www.dropbox.com/) — Cloud file storage and collaboration.
 - [Google Drive](https://drive.google.com/) — Cloud storage platform.
 - [Microsoft OneDrive](https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage) — Microsoft cloud storage service.
