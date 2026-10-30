@@ -71,6 +71,7 @@ Tools for focus, time tracking, and productivity optimization.
 - [Forest](https://www.forestapp.cc/) — Focus and distraction reduction application.
 - [Pomofocus](https://pomofocus.io/) — Pomodoro technique timer.
 - [RescueTime](https://www.rescuetime.com/) — Productivity analytics and focus tracking.
+- [Ripple](https://ripplefocus.github.io/en/) — Local-only Android and iOS app that blocks short-video feeds and enforces a 15-minute cooldown before rules can be changed.
 - [Toggl Track](https://toggl.com/track/) — Time tracking and reporting.
 - [Timeular](https://timeular.com/) — Time tracking and productivity insights.
 
