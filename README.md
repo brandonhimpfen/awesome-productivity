@@ -118,7 +118,6 @@ AI-powered tools that support productivity and workflow optimization.
 - [Microsoft Copilot](https://copilot.microsoft.com/) — AI assistant integrated into Microsoft products.
 - [Perplexity](https://www.perplexity.ai/) — AI-powered research and information discovery platform.
 - [NotebookLM](https://notebooklm.google/) — AI-powered notebook and research assistant.
-- [Taskade](https://www.taskade.com/) — AI-native workspace for building apps, custom agents, and automations.
 
 ## Learning Resources
 
