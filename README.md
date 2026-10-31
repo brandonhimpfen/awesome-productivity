@@ -37,7 +37,7 @@ Tools for organizing tasks, projects, priorities, and workflows.
 - [Microsoft Planner](https://www.microsoft.com/microsoft-365/planner) — Task management for Microsoft 365.
 - [Monday.com](https://monday.com/) — Work operating system for teams.
 - [Notion](https://www.notion.so/) — Flexible workspace for projects and documentation.
-- [Taskade](https://www.taskade.com/) — AI-native workspace for tasks, Taskade Genesis apps, custom agents, and workflow automation.
+- [Taskade](https://www.taskade.com/) — Collaborative workspace for task management, project planning, team collaboration, and AI-powered workflow automation.
 - [Todoist](https://todoist.com/) — Personal task and productivity manager.
 - [Trello](https://trello.com/) — Kanban-style project management platform.
 
