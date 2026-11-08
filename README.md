@@ -50,6 +50,7 @@ Tools for capturing, organizing, and retrieving information.
 - [Notion](https://www.notion.so/) — Notes, databases, and documentation platform.
 - [Obsidian](https://obsidian.md/) — Local-first knowledge management application.
 - [OneNote](https://www.onenote.com/) — Microsoft's note-taking platform.
+- [ORANO](https://oranoai.com) — Turns saved Reels, TikToks, YouTube videos, and articles into searchable summaries and step-by-step plans.
 - [Roam Research](https://roamresearch.com/) — Networked thought and note-taking tool.
 - [Tana](https://tana.inc/) — Structured knowledge management platform.
 
